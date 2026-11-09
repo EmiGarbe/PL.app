@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma Inteligente de Licitaciones",
+  "description": "Sistema empresarial de análisis de pliegos, extracción y normalización de propuestas, matriz comparativa inteligente y evaluación multicriterio con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
