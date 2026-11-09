@@ -15,7 +15,7 @@ import {
 } from './types.js';
 
 const ai = new GoogleGenAI({
-  apiKey: process.env.GEMINI_API_KEY,
+  apiKey: "AQ.Ab8RN6IkZU2Wgrgw9HwOoy6_Xbdv_nlmJzWlgkTZ6nfwIF5ysg",
   httpOptions: {
     headers: {
       'User-Agent': 'aistudio-build',
